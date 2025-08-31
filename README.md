@@ -21,7 +21,3 @@ This sample includes:
 - Tailwind + basic styles in `app/globals.css`
 - Security headers via `middleware.ts`
 # AI-Driven-Exam-App
-# AI-Driven-Exam-App
-# AI-Driven-Exam-App
-# AI-Driven-Exam-App
-# AI-Exam-App
